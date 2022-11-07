@@ -1,2 +1,2 @@
-# app-tonics_seo
+# APP Tonics SEO
 Native Tonics SEO App
